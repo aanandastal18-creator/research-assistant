@@ -5,3 +5,4 @@
    python-dotenv
    google-genai
    rank_bm25
+   PyMuPDF
