@@ -1,0 +1,5 @@
+   streamlit
+   chromadb
+   google-generativeai
+   pypdf
+   python-dotenv
